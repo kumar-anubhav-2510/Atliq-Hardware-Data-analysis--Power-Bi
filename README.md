@@ -1,6 +1,6 @@
 
 # Business Insights 360
-<img width="935" alt="Finance_View" src="">
+<img width="935" alt="Finance_View" src="https://github.com/kumar-anubhav-2510/Data-analysis-using-power-bi/blob/main/All%20Report%20Views/computer-2982270_1280.jpg">
 
 
 ## Project Overview
