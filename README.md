@@ -1,5 +1,7 @@
 
 # Business Insights 360
+<img width="935" alt="Finance_View" src="">
+
 
 ## Project Overview
 
